@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drosser895-eng.github.io/ai-news-updates/sitemap.xml
